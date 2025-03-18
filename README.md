@@ -11,7 +11,7 @@
 - 🤖 Building **AI-powered** & **Automation** projects
 - ⚡ Creating high-performance **Telegram bots** with Aiogram
 - 📌 Currently developing **TaskFlow** – A task management platform
-- 📫 Contact me at: **hojiakbar@example.com**
+- 📫 Contact me at: **hhabibullayev075@gmail.com**
 
 ---
 
